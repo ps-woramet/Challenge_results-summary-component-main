@@ -1,1 +1,1 @@
-Challenge by https://www.frontendmentor.io?ref=challenge Frontend Mentor Coded by <a href="#">ps.woramet</a>.
+Challenge by https://www.frontendmentor.io?ref=challenge Frontend Mentor Coded by ps.woramet.
